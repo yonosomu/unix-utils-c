@@ -2,7 +2,10 @@
 
 <!-- tech-stack-badges -->
 <p align="center">
-![C](https://img.shields.io/badge/C-Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![POSIX](https://img.shields.io/badge/POSIX-Utilities-334155?style=for-the-badge&logo=linux&logoColor=white) ![Make](https://img.shields.io/badge/Make-Build-427819?style=for-the-badge&logo=gnu&logoColor=white) ![Regex](https://img.shields.io/badge/Regex-Pattern Matching-7C3AED?style=for-the-badge)
+<img alt="C" src="https://img.shields.io/badge/C-Language-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white" />
+<img alt="POSIX" src="https://img.shields.io/badge/POSIX-Utilities-334155?style=for-the-badge&amp;logo=linux&amp;logoColor=white" />
+<img alt="Make" src="https://img.shields.io/badge/Make-Build-427819?style=for-the-badge&amp;logo=gnu&amp;logoColor=white" />
+<img alt="Regex" src="https://img.shields.io/badge/Regex-Pattern%20Matching-7C3AED?style=for-the-badge" />
 </p>
 <!-- /tech-stack-badges -->
 
